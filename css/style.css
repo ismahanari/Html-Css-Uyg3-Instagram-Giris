@@ -37,7 +37,7 @@ body{
 }
 #i1::placeholder{
     font-size: 12px;
-    text-align: inherit;
+    
     color: rgb(151, 149, 149);
 
 }
